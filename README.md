@@ -8,3 +8,5 @@ import the data and write code to read it into MatLab arrays.
 
 For ANN SIFT that's already there (fvecs_read in "data sets", for the others it's up to you how
 you extract and store the data, but it should be fairly straightforward.
+
+Of course feel free to contact me if you need help with that...!
